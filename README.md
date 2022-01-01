@@ -1,24 +1,21 @@
-# Final Project Interactive Graphics
-Project for the Interactive Graphics course of the "Artificial Intelligence and Robotics" Master Degree at University "La Sapienza" of Rome
-## Done By Team CocoNuts
+# Final Project Grafika Komputer
+## Anggota
+- Albert Filip Silalahi
+- Sabrina Lydia Simanjuntak
+- Zelda Elma Sibuea
 
-
-# Authors 
-## Ermanno Bartoli https://github.com/ErmannoBartoli99
-## Francesco Argenziano https://github.com/Fra-Tsuna
-
-This is game in which you're the driver of a ferrari. Try to not hit other wehicles and survive as long as possible.
+# About
+Dalam project ini,kami membuat permainan balap mobil, yang terdapat rintangannya. Pemain dapat mengumpulkan skor sebanyak banyaknya untuk menang.
 
 # Controls
 
-- W/UpArrow to go ahead
-- S/DownArrow to go back
-- A/LefArrow to go Left
-- D/RightArrow to go right
-- ESC/SpaceBar to pause/play the game
-- M to mute/unmute the sounds
+- W/UpArrow maju
+- S/DownArrow mundur
+- A/LefArrow kiri
+- D/RightArrow kanan
+- ESC/SpaceBar to pause/main game
+- M to mute/unmute suara
 
 
 ## HOW TO PLAY THE GAME
-You can directly play the game by clicking on the following link
-[PLAY](https://sapienzainteractivegraphicscourse.github.io/final-project-coconuts/)
+[PLAY] https://fp-fast-furious-a11-gravajam.netlify.app/
